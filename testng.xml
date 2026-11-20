@@ -1,0 +1,8 @@
+
+<suite name="ParaBank Automation Suite">
+  <test name="Banking E2E Tests">
+    <classes>
+      <class name="com.parabank.tests.ParaBankEndToEndTest"/>
+    </classes>
+  </test>
+</suite>

@@ -1,0 +1,690 @@
+2026-06-27 11:19:21 [INFO] - Application Started
+2026-06-27 11:29:12 [INFO] - Application Started
+2026-06-27 11:29:14 [INFO] - FirefoxDriver setup done
+2026-06-27 11:29:14 [INFO] - Firefox options set - private mode ON
+2026-06-27 11:29:19 [INFO] - Browser launched and maximized
+2026-06-27 11:29:22 [INFO] - Navigated to: https://parabank.parasoft.com
+2026-06-27 11:30:34 [INFO] - Application Started
+2026-06-27 11:30:34 [INFO] - FirefoxDriver setup done
+2026-06-27 11:30:34 [INFO] - Firefox options set - private mode ON
+2026-06-27 11:30:38 [INFO] - Browser launched and maximized
+2026-06-27 11:30:41 [INFO] - Navigated to: https://parabank.parasoft.com
+2026-06-27 11:46:44 [INFO] - Application Started
+2026-06-27 11:46:44 [INFO] - FirefoxDriver setup done
+2026-06-27 11:46:44 [INFO] - Firefox options set - private mode ON
+2026-06-27 11:46:48 [INFO] - Browser launched and maximized
+2026-06-27 11:46:51 [INFO] - Navigated to: https://parabank.parasoft.com
+2026-06-27 11:46:54 [INFO] - ===== REGISTER USER ACTIONS STARTED =====
+2026-06-27 11:46:56 [INFO] - Checking ParaBank logo...
+2026-06-27 11:46:56 [INFO] - Logo is displayed.
+2026-06-27 11:46:56 [INFO] - Logo title is correct.
+2026-06-27 11:46:56 [INFO] - Logo alt text is correct.
+2026-06-27 11:46:56 [INFO] - Logo image source is correct.
+2026-06-27 11:46:56 [INFO] - Clicking Register link...
+2026-06-27 11:46:57 [INFO] - Register page opened successfully.
+2026-06-27 11:46:57 [INFO] - Browser closed
+2026-06-27 11:50:07 [INFO] - Application Started
+2026-06-27 11:50:08 [INFO] - FirefoxDriver setup done
+2026-06-27 11:50:08 [INFO] - Firefox options set - private mode ON
+2026-06-27 11:50:12 [INFO] - Browser launched and maximized
+2026-06-27 11:50:14 [INFO] - Navigated to: https://parabank.parasoft.com
+2026-06-27 11:50:17 [INFO] - ===== REGISTER USER ACTIONS STARTED =====
+2026-06-27 11:50:19 [INFO] - Checking ParaBank logo...
+2026-06-27 11:50:19 [INFO] - Logo is displayed.
+2026-06-27 11:50:19 [INFO] - Logo title is correct.
+2026-06-27 11:50:19 [INFO] - Logo tooltip is correct.
+2026-06-27 11:50:19 [INFO] - Logo alt text is correct.
+2026-06-27 11:50:19 [INFO] - Logo image source is correct.
+2026-06-27 11:50:19 [INFO] - Clicking Register link...
+2026-06-27 11:50:20 [INFO] - Register page opened successfully.
+2026-06-27 11:50:20 [INFO] - Browser closed
+2026-06-27 11:53:27 [INFO] - Application Started
+2026-06-27 11:53:28 [INFO] - FirefoxDriver setup done
+2026-06-27 11:53:28 [INFO] - Firefox options set - private mode ON
+2026-06-27 11:53:32 [INFO] - Browser launched and maximized
+2026-06-27 11:53:34 [INFO] - Navigated to: https://parabank.parasoft.com
+2026-06-27 11:53:37 [INFO] - ===== REGISTER USER ACTIONS STARTED =====
+2026-06-27 11:53:39 [INFO] - Checking ParaBank logo...
+2026-06-27 11:53:39 [INFO] - Logo is displayed.
+2026-06-27 11:53:39 [INFO] - Logo title is correct.
+2026-06-27 11:53:39 [INFO] - Logo tooltip is correct.
+2026-06-27 11:53:39 [INFO] - Logo alt text is correct.
+2026-06-27 11:53:39 [INFO] - Logo image source is correct.
+2026-06-27 11:53:39 [INFO] - Clicking Register link...
+2026-06-27 11:53:40 [INFO] - Register form opened sucessfully
+2026-06-27 11:53:40 [INFO] - Register page opened successfully.
+2026-06-27 11:53:41 [INFO] - Browser closed
+2026-06-27 12:08:39 [INFO] - Application Started
+2026-06-27 12:08:39 [INFO] - FirefoxDriver setup done
+2026-06-27 12:08:39 [INFO] - Firefox options set - private mode ON
+2026-06-27 12:08:43 [INFO] - Browser launched and maximized
+2026-06-27 12:08:47 [INFO] - Navigated to: https://parabank.parasoft.com
+2026-06-27 12:08:50 [INFO] - ===== REGISTER USER ACTIONS STARTED =====
+2026-06-27 12:08:52 [INFO] - Checking ParaBank logo...
+2026-06-27 12:08:52 [INFO] - Logo is displayed.
+2026-06-27 12:08:52 [INFO] - Logo title is correct.
+2026-06-27 12:08:52 [INFO] - Logo tooltip is correct.
+2026-06-27 12:08:52 [INFO] - Logo alt text is correct.
+2026-06-27 12:08:52 [INFO] - Logo image source is correct.
+2026-06-27 12:08:52 [INFO] - Clicking Register link...
+2026-06-27 12:08:54 [INFO] - Register form opened successfully.
+2026-06-27 12:22:46 [INFO] - Application Started
+2026-06-27 12:22:47 [INFO] - FirefoxDriver setup done
+2026-06-27 12:22:47 [INFO] - Firefox options set - private mode ON
+2026-06-27 12:22:51 [INFO] - Browser launched and maximized
+2026-06-27 12:22:53 [INFO] - Navigated to: https://parabank.parasoft.com
+2026-06-27 12:22:56 [INFO] - ===== REGISTER USER ACTIONS STARTED =====
+2026-06-27 12:22:58 [INFO] - Checking ParaBank logo...
+2026-06-27 12:22:58 [INFO] - Logo is displayed.
+2026-06-27 12:22:58 [INFO] - Logo title is correct.
+2026-06-27 12:22:58 [INFO] - Logo tooltip is correct.
+2026-06-27 12:22:58 [INFO] - Logo alt text is correct.
+2026-06-27 12:22:58 [INFO] - Logo image source is correct.
+2026-06-27 12:22:58 [INFO] - Clicking Register link...
+2026-06-27 12:23:01 [INFO] - Register form opened successfully.
+2026-06-27 12:23:01 [INFO] - First Name Label is displayed.
+2026-06-27 12:23:01 [INFO] - Total Labels Displayed : 1
+2026-06-27 12:23:01 [ERROR] - Expected 11 labels but found 1
+2026-06-27 12:23:01 [INFO] - ===== REGISTER USER ACTIONS COMPLETED =====
+2026-06-27 12:23:02 [INFO] - Browser closed
+2026-06-27 13:13:54 [INFO] - Application Started
+2026-06-27 13:13:55 [INFO] - FirefoxDriver setup done
+2026-06-27 13:13:55 [INFO] - Firefox options set - private mode ON
+2026-06-27 13:14:00 [INFO] - Browser launched and maximized
+2026-06-27 13:14:02 [INFO] - Navigated to: https://parabank.parasoft.com
+2026-06-27 13:14:05 [INFO] - ===== REGISTER USER ACTIONS STARTED =====
+2026-06-27 13:14:07 [INFO] - Checking ParaBank logo...
+2026-06-27 13:14:07 [INFO] - Logo is displayed.
+2026-06-27 13:14:07 [INFO] - Logo title is correct.
+2026-06-27 13:14:07 [INFO] - Logo tooltip is correct.
+2026-06-27 13:14:07 [INFO] - Logo alt text is correct.
+2026-06-27 13:14:07 [INFO] - Logo image source is correct.
+2026-06-27 13:14:07 [INFO] - Clicking Register link...
+2026-06-27 13:14:09 [INFO] - Register form opened successfully.
+2026-06-27 13:14:09 [INFO] - First Name Label is displayed.
+2026-06-27 13:14:09 [INFO] - Last Name Label is displayed.
+2026-06-27 13:14:09 [INFO] - Address Label is displayed.
+2026-06-27 13:14:09 [INFO] - City Label is displayed.
+2026-06-27 13:14:09 [INFO] - State Label is displayed.
+2026-06-27 13:14:09 [INFO] - Zip Code Label is displayed.
+2026-06-27 13:14:09 [INFO] - Phone # Label is displayed.
+2026-06-27 13:14:09 [INFO] - SSN Label is displayed.
+2026-06-27 13:14:09 [INFO] - Username Label is displayed.
+2026-06-27 13:14:09 [INFO] - Password Label is displayed.
+2026-06-27 13:14:10 [INFO] - Confirm Password Label is displayed.
+2026-06-27 13:14:10 [INFO] - Register Button is displayed.
+2026-06-27 13:14:10 [INFO] - Total Labels Displayed : 12
+2026-06-27 13:14:10 [ERROR] - Expected 11 labels but found 12
+2026-06-27 13:14:10 [INFO] - ===== REGISTER USER ACTIONS COMPLETED =====
+2026-06-27 13:14:10 [INFO] - Browser closed
+2026-06-27 13:47:35 [INFO] - Application Started
+2026-06-27 13:47:36 [INFO] - FirefoxDriver setup done
+2026-06-27 13:47:36 [INFO] - Firefox options set - private mode ON
+2026-06-27 13:47:41 [INFO] - Browser launched and maximized
+2026-06-27 13:47:43 [INFO] - Navigated to: https://parabank.parasoft.com
+2026-06-27 13:47:46 [INFO] - ===== REGISTER USER ACTIONS STARTED =====
+2026-06-27 13:47:48 [INFO] - Checking ParaBank logo...
+2026-06-27 13:47:48 [INFO] - Logo is displayed.
+2026-06-27 13:47:48 [INFO] - Logo title is correct.
+2026-06-27 13:47:48 [INFO] - Logo tooltip is correct.
+2026-06-27 13:47:48 [INFO] - Logo alt text is correct.
+2026-06-27 13:47:48 [INFO] - Logo image source is correct.
+2026-06-27 13:47:48 [INFO] - Clicking Register link...
+2026-06-27 13:47:51 [INFO] - Register form opened successfully.
+2026-06-27 13:47:51 [INFO] - First Name Label is displayed.
+2026-06-27 13:47:51 [INFO] - Generated random registration data.
+2026-06-27 13:54:54 [INFO] - Application Started
+2026-06-27 13:54:54 [INFO] - FirefoxDriver setup done
+2026-06-27 13:54:54 [INFO] - Firefox options set - private mode ON
+2026-06-27 13:54:58 [INFO] - Browser launched and maximized
+2026-06-27 13:55:01 [INFO] - Navigated to: https://parabank.parasoft.com
+2026-06-27 13:55:04 [INFO] - ===== REGISTER USER ACTIONS STARTED =====
+2026-06-27 13:55:06 [INFO] - Logo is displayed.
+2026-06-27 13:55:06 [INFO] - Logo title is correct.
+2026-06-27 13:55:06 [INFO] - Logo tooltip is correct.
+2026-06-27 13:55:06 [INFO] - Logo alt text is correct.
+2026-06-27 13:55:06 [INFO] - Logo source is correct.
+2026-06-27 13:55:09 [INFO] - Register page opened successfully.
+2026-06-27 13:55:09 [INFO] - First Name is displayed.
+2026-06-27 13:55:09 [INFO] - Last Name is displayed.
+2026-06-27 13:55:09 [INFO] - Address is displayed.
+2026-06-27 13:55:09 [INFO] - City is displayed.
+2026-06-27 13:55:09 [INFO] - State is displayed.
+2026-06-27 13:55:09 [INFO] - Zip Code is displayed.
+2026-06-27 13:55:09 [INFO] - Phone is displayed.
+2026-06-27 13:55:09 [INFO] - SSN is displayed.
+2026-06-27 13:55:09 [INFO] - Username is displayed.
+2026-06-27 13:55:09 [INFO] - Password is displayed.
+2026-06-27 13:55:09 [INFO] - Confirm Password is displayed.
+2026-06-27 13:55:09 [INFO] - Register Button is displayed.
+2026-06-27 13:55:09 [INFO] - Total Elements Displayed : 12
+2026-06-27 13:55:09 [INFO] - All labels and Register button are displayed.
+2026-06-27 13:55:09 [INFO] - Random registration data generated.
+2026-06-27 13:55:09 [INFO] - Registration form filled successfully.
+2026-06-27 13:55:12 [INFO] - Register button clicked.
+2026-06-27 13:55:15 [INFO] - Registration Successful
+2026-06-27 13:55:15 [INFO] - Username : Kale3457
+2026-06-27 13:55:15 [INFO] - Password : Qc5$ScIpI4
+2026-06-27 13:55:15 [INFO] - Account created successfully.
+2026-06-27 13:55:15 [INFO] - ===== REGISTER USER ACTIONS COMPLETED =====
+2026-06-27 13:55:16 [INFO] - Browser closed
+2026-06-27 13:57:40 [INFO] - Application Started
+2026-06-27 13:57:40 [INFO] - FirefoxDriver setup done
+2026-06-27 13:57:44 [INFO] - Browser launched and maximized
+2026-06-27 13:57:47 [INFO] - Navigated to: https://parabank.parasoft.com
+2026-06-27 13:57:50 [INFO] - ===== REGISTER USER ACTIONS STARTED =====
+2026-06-27 13:57:52 [INFO] - Logo is displayed.
+2026-06-27 13:57:52 [INFO] - Logo title is correct.
+2026-06-27 13:57:52 [INFO] - Logo tooltip is correct.
+2026-06-27 13:57:52 [INFO] - Logo alt text is correct.
+2026-06-27 13:57:52 [INFO] - Logo source is correct.
+2026-06-27 13:57:54 [INFO] - Register page opened successfully.
+2026-06-27 13:57:54 [INFO] - First Name is displayed.
+2026-06-27 13:57:54 [INFO] - Last Name is displayed.
+2026-06-27 13:57:54 [INFO] - Address is displayed.
+2026-06-27 13:57:54 [INFO] - City is displayed.
+2026-06-27 13:57:55 [INFO] - State is displayed.
+2026-06-27 13:57:55 [INFO] - Zip Code is displayed.
+2026-06-27 13:57:55 [INFO] - Phone is displayed.
+2026-06-27 13:57:55 [INFO] - SSN is displayed.
+2026-06-27 13:57:55 [INFO] - Username is displayed.
+2026-06-27 13:57:55 [INFO] - Password is displayed.
+2026-06-27 13:57:55 [INFO] - Confirm Password is displayed.
+2026-06-27 13:57:55 [INFO] - Register Button is displayed.
+2026-06-27 13:57:55 [INFO] - Total Elements Displayed : 12
+2026-06-27 13:57:55 [INFO] - All labels and Register button are displayed.
+2026-06-27 13:57:55 [INFO] - Random registration data generated.
+2026-06-27 13:57:55 [INFO] - Registration form filled successfully.
+2026-06-27 13:57:57 [INFO] - Register button clicked.
+2026-06-27 13:58:00 [INFO] - Registration Successful
+2026-06-27 13:58:00 [INFO] - Username : Kale6635
+2026-06-27 13:58:00 [INFO] - Password : Pa3%oTZr2z
+2026-06-27 13:58:00 [INFO] - Account created successfully.
+2026-06-27 13:58:00 [INFO] - ===== REGISTER USER ACTIONS COMPLETED =====
+2026-06-27 13:58:01 [INFO] - Browser closed
+2026-06-27 14:03:06 [INFO] - Application Started
+2026-06-27 14:03:06 [INFO] - FirefoxDriver setup done
+2026-06-27 14:03:10 [INFO] - Browser launched and maximized
+2026-06-27 14:03:12 [INFO] - Navigated to: https://parabank.parasoft.com
+2026-06-27 14:03:15 [INFO] - ===== REGISTER USER ACTIONS STARTED =====
+2026-06-27 14:03:17 [INFO] - Logo is displayed.
+2026-06-27 14:03:17 [INFO] - Logo title is correct.
+2026-06-27 14:03:17 [INFO] - Logo tooltip is correct.
+2026-06-27 14:03:18 [INFO] - Logo alt text is correct.
+2026-06-27 14:03:18 [INFO] - Logo source is correct.
+2026-06-27 14:03:20 [INFO] - Register page opened successfully.
+2026-06-27 14:03:20 [INFO] - First Name is displayed.
+2026-06-27 14:03:20 [INFO] - Last Name is displayed.
+2026-06-27 14:03:20 [INFO] - Address is displayed.
+2026-06-27 14:03:20 [INFO] - City is displayed.
+2026-06-27 14:03:20 [INFO] - State is displayed.
+2026-06-27 14:03:20 [INFO] - Zip Code is displayed.
+2026-06-27 14:03:20 [INFO] - Phone is displayed.
+2026-06-27 14:03:20 [INFO] - SSN is displayed.
+2026-06-27 14:03:20 [INFO] - Username is displayed.
+2026-06-27 14:03:20 [INFO] - Password is displayed.
+2026-06-27 14:03:20 [INFO] - Confirm Password is displayed.
+2026-06-27 14:03:20 [INFO] - Register Button is displayed.
+2026-06-27 14:03:20 [INFO] - Total Elements Displayed : 12
+2026-06-27 14:03:20 [INFO] - All labels and Register button are displayed.
+2026-06-27 14:03:20 [INFO] - Random registration data generated.
+2026-06-27 14:03:21 [INFO] - Registration form filled successfully.
+2026-06-27 14:03:22 [INFO] - Register button clicked.
+2026-06-27 14:04:07 [INFO] - Application Started
+2026-06-27 14:04:07 [INFO] - FirefoxDriver setup done
+2026-06-27 14:04:11 [INFO] - Browser launched and maximized
+2026-06-27 14:04:13 [INFO] - Navigated to: https://parabank.parasoft.com
+2026-06-27 14:04:16 [INFO] - ===== REGISTER USER ACTIONS STARTED =====
+2026-06-27 14:04:18 [INFO] - Logo is displayed.
+2026-06-27 14:04:19 [INFO] - Logo title is correct.
+2026-06-27 14:04:19 [INFO] - Logo tooltip is correct.
+2026-06-27 14:04:19 [INFO] - Logo alt text is correct.
+2026-06-27 14:04:19 [INFO] - Logo source is correct.
+2026-06-27 14:04:21 [INFO] - Register page opened successfully.
+2026-06-27 14:04:21 [INFO] - First Name is displayed.
+2026-06-27 14:04:21 [INFO] - Last Name is displayed.
+2026-06-27 14:04:21 [INFO] - Address is displayed.
+2026-06-27 14:04:21 [INFO] - City is displayed.
+2026-06-27 14:04:21 [INFO] - State is displayed.
+2026-06-27 14:04:21 [INFO] - Zip Code is displayed.
+2026-06-27 14:04:21 [INFO] - Phone is displayed.
+2026-06-27 14:04:21 [INFO] - SSN is displayed.
+2026-06-27 14:04:21 [INFO] - Username is displayed.
+2026-06-27 14:04:21 [INFO] - Password is displayed.
+2026-06-27 14:04:21 [INFO] - Confirm Password is displayed.
+2026-06-27 14:04:21 [INFO] - Register Button is displayed.
+2026-06-27 14:04:21 [INFO] - Total Elements Displayed : 12
+2026-06-27 14:04:21 [INFO] - All labels and Register button are displayed.
+2026-06-27 14:04:21 [INFO] - Random registration data generated.
+2026-06-27 14:04:22 [INFO] - Registration form filled successfully.
+2026-06-27 14:04:23 [INFO] - Register button clicked.
+2026-06-27 14:06:03 [INFO] - Registration Successful
+2026-06-27 14:06:03 [INFO] - Username : Kale5700
+2026-06-27 14:06:03 [INFO] - Password : Ju7$%9H4DC
+2026-06-27 14:06:03 [INFO] - Account created successfully.
+2026-06-27 14:06:03 [INFO] - ===== REGISTER USER ACTIONS COMPLETED =====
+2026-06-27 14:06:03 [INFO] - Browser closed
+2026-06-27 14:10:39 [INFO] - Application Started
+2026-06-27 14:10:39 [INFO] - FirefoxDriver setup done
+2026-06-27 14:10:43 [INFO] - Browser launched and maximized
+2026-06-27 14:10:45 [INFO] - Navigated to: https://parabank.parasoft.com
+2026-06-27 14:10:48 [INFO] - ===== REGISTER USER ACTIONS STARTED =====
+2026-06-27 14:10:51 [INFO] - Logo is displayed.
+2026-06-27 14:10:51 [INFO] - Logo title is correct.
+2026-06-27 14:10:51 [INFO] - Logo tooltip is correct.
+2026-06-27 14:10:51 [INFO] - Logo alt text is correct.
+2026-06-27 14:10:51 [INFO] - Logo source is correct.
+2026-06-27 14:10:53 [INFO] - Register page opened successfully.
+2026-06-27 14:10:53 [INFO] - First Name is displayed.
+2026-06-27 14:10:53 [INFO] - Last Name is displayed.
+2026-06-27 14:10:53 [INFO] - Address is displayed.
+2026-06-27 14:10:53 [INFO] - City is displayed.
+2026-06-27 14:10:53 [INFO] - State is displayed.
+2026-06-27 14:10:53 [INFO] - Zip Code is displayed.
+2026-06-27 14:10:53 [INFO] - Phone is displayed.
+2026-06-27 14:10:53 [INFO] - SSN is displayed.
+2026-06-27 14:10:53 [INFO] - Username is displayed.
+2026-06-27 14:10:53 [INFO] - Password is displayed.
+2026-06-27 14:10:53 [INFO] - Confirm Password is displayed.
+2026-06-27 14:10:54 [INFO] - Register Button is displayed.
+2026-06-27 14:10:54 [INFO] - Total Elements Displayed : 12
+2026-06-27 14:10:54 [INFO] - All labels and Register button are displayed.
+2026-06-27 14:10:54 [INFO] - Random registration data generated.
+2026-06-27 14:10:54 [INFO] - Registration form filled successfully.
+2026-06-27 14:10:55 [INFO] - Register button clicked.
+2026-06-27 14:12:02 [INFO] - Application Started
+2026-06-27 14:12:03 [INFO] - FirefoxDriver setup done
+2026-06-27 14:12:07 [INFO] - Browser launched and maximized
+2026-06-27 14:12:09 [INFO] - Navigated to: https://parabank.parasoft.com
+2026-06-27 14:12:12 [INFO] - ===== REGISTER USER ACTIONS STARTED =====
+2026-06-27 14:12:14 [INFO] - Logo is displayed.
+2026-06-27 14:12:14 [INFO] - Logo title is correct.
+2026-06-27 14:12:14 [INFO] - Logo tooltip is correct.
+2026-06-27 14:12:14 [INFO] - Logo alt text is correct.
+2026-06-27 14:12:14 [INFO] - Logo source is correct.
+2026-06-27 14:12:17 [INFO] - Register page opened successfully.
+2026-06-27 14:12:17 [INFO] - First Name is displayed.
+2026-06-27 14:12:17 [INFO] - Last Name is displayed.
+2026-06-27 14:12:17 [INFO] - Address is displayed.
+2026-06-27 14:12:17 [INFO] - City is displayed.
+2026-06-27 14:12:17 [INFO] - State is displayed.
+2026-06-27 14:12:17 [INFO] - Zip Code is displayed.
+2026-06-27 14:12:17 [INFO] - Phone is displayed.
+2026-06-27 14:12:17 [INFO] - SSN is displayed.
+2026-06-27 14:12:17 [INFO] - Username is displayed.
+2026-06-27 14:12:17 [INFO] - Password is displayed.
+2026-06-27 14:12:17 [INFO] - Confirm Password is displayed.
+2026-06-27 14:12:17 [INFO] - Register Button is displayed.
+2026-06-27 14:12:17 [INFO] - Total Elements Displayed : 12
+2026-06-27 14:12:17 [INFO] - All labels and Register button are displayed.
+2026-06-27 14:12:17 [INFO] - Random registration data generated.
+2026-06-27 14:12:17 [INFO] - Registration form filled successfully.
+2026-06-27 14:12:19 [INFO] - Register button clicked.
+2026-06-27 14:12:29 [INFO] - Registration Successful
+2026-06-27 14:12:29 [INFO] - Username : Kale4563
+2026-06-27 14:12:29 [INFO] - Password : Iz6#BHUdma
+2026-06-27 14:12:29 [INFO] - Account created successfully.
+2026-06-27 14:12:29 [INFO] - ===== REGISTER USER ACTIONS COMPLETED =====
+2026-06-27 14:12:29 [INFO] - Welcome heading validated successfully.
+2026-06-27 14:12:30 [INFO] - Browser closed
+2026-06-27 14:25:24 [INFO] - Application Started
+2026-06-27 14:25:24 [INFO] - Starting recording: ParaBank_Login_Test
+2026-06-27 14:26:17 [INFO] - Application Started
+2026-06-27 14:26:17 [INFO] - Starting recording: ParaBank_Login_Test
+2026-06-27 14:28:10 [INFO] - Application Started
+2026-06-27 14:28:10 [INFO] - Starting screen recording: ParaBank_Login_Test
+2026-06-27 14:28:10 [INFO] - Recording thread started
+2026-06-27 14:28:12 [INFO] - FirefoxDriver setup done
+2026-06-27 14:28:17 [INFO] - Browser launched and maximized
+2026-06-27 14:28:20 [INFO] - Navigated to: https://parabank.parasoft.com
+2026-06-27 14:28:23 [INFO] - ===== REGISTER USER ACTIONS STARTED =====
+2026-06-27 14:28:25 [INFO] - Logo is displayed.
+2026-06-27 14:28:25 [INFO] - Logo title is correct.
+2026-06-27 14:28:25 [INFO] - Logo tooltip is correct.
+2026-06-27 14:28:25 [INFO] - Logo alt text is correct.
+2026-06-27 14:28:25 [INFO] - Logo source is correct.
+2026-06-27 14:28:27 [INFO] - Register page opened successfully.
+2026-06-27 14:28:27 [INFO] - First Name is displayed.
+2026-06-27 14:28:27 [INFO] - Last Name is displayed.
+2026-06-27 14:28:27 [INFO] - Address is displayed.
+2026-06-27 14:28:27 [INFO] - City is displayed.
+2026-06-27 14:28:27 [INFO] - State is displayed.
+2026-06-27 14:28:27 [INFO] - Zip Code is displayed.
+2026-06-27 14:28:27 [INFO] - Phone is displayed.
+2026-06-27 14:28:28 [INFO] - SSN is displayed.
+2026-06-27 14:28:28 [INFO] - Username is displayed.
+2026-06-27 14:28:28 [INFO] - Password is displayed.
+2026-06-27 14:28:28 [INFO] - Confirm Password is displayed.
+2026-06-27 14:28:28 [INFO] - Register Button is displayed.
+2026-06-27 14:28:28 [INFO] - Total Elements Displayed : 12
+2026-06-27 14:28:28 [INFO] - All labels and Register button are displayed.
+2026-06-27 14:28:28 [INFO] - Random registration data generated.
+2026-06-27 14:28:28 [INFO] - Registration form filled successfully.
+2026-06-27 14:28:29 [INFO] - Register button clicked.
+2026-06-27 14:28:39 [INFO] - Registration Successful
+2026-06-27 14:28:39 [INFO] - Username : Kale4571
+2026-06-27 14:28:39 [INFO] - Password : Lk6#rd9zW7
+2026-06-27 14:28:39 [INFO] - Account created successfully.
+2026-06-27 14:28:39 [INFO] - ===== REGISTER USER ACTIONS COMPLETED =====
+2026-06-27 14:28:40 [INFO] - Welcome heading validated successfully.
+2026-06-27 14:28:42 [INFO] - Browser closed
+2026-06-27 14:28:42 [INFO] - Saving 117 frames...
+2026-06-27 14:28:50 [INFO] - Frames saved at: C:\Users\VSR22\git\Selenium_Java\ParaBank/recordings/ParaBank_Login_Test_2026-06-27_14-28-42/
+2026-06-27 14:28:50 [INFO] - ===== TEST COMPLETED =====
+2026-06-27 14:32:43 [INFO] - Application Started
+2026-06-27 14:32:43 [INFO] - Starting screen recording: ParaBank_Login_Test
+2026-06-27 14:32:43 [INFO] - Recording thread started
+2026-06-27 14:32:43 [INFO] - FirefoxDriver setup done
+2026-06-27 14:32:47 [INFO] - Browser launched and maximized
+2026-06-27 14:32:50 [INFO] - Navigated to: https://parabank.parasoft.com
+2026-06-27 14:32:53 [INFO] - ===== REGISTER USER ACTIONS STARTED =====
+2026-06-27 14:32:55 [INFO] - Logo is displayed.
+2026-06-27 14:32:55 [INFO] - Logo title is correct.
+2026-06-27 14:32:55 [INFO] - Logo tooltip is correct.
+2026-06-27 14:32:55 [INFO] - Logo alt text is correct.
+2026-06-27 14:32:55 [INFO] - Logo source is correct.
+2026-06-27 14:32:57 [INFO] - Register page opened successfully.
+2026-06-27 14:32:57 [INFO] - First Name is displayed.
+2026-06-27 14:32:57 [INFO] - Last Name is displayed.
+2026-06-27 14:32:57 [INFO] - Address is displayed.
+2026-06-27 14:32:57 [INFO] - City is displayed.
+2026-06-27 14:32:57 [INFO] - State is displayed.
+2026-06-27 14:32:57 [INFO] - Zip Code is displayed.
+2026-06-27 14:32:57 [INFO] - Phone is displayed.
+2026-06-27 14:32:58 [INFO] - SSN is displayed.
+2026-06-27 14:32:58 [INFO] - Username is displayed.
+2026-06-27 14:32:58 [INFO] - Password is displayed.
+2026-06-27 14:32:58 [INFO] - Confirm Password is displayed.
+2026-06-27 14:32:58 [INFO] - Register Button is displayed.
+2026-06-27 14:32:58 [INFO] - Total Elements Displayed : 12
+2026-06-27 14:32:58 [INFO] - All labels and Register button are displayed.
+2026-06-27 14:32:58 [INFO] - Random registration data generated.
+2026-06-27 14:32:58 [INFO] - Registration form filled successfully.
+2026-06-27 14:33:00 [INFO] - Register button clicked.
+2026-06-27 14:33:10 [INFO] - Registration Successful
+2026-06-27 14:33:10 [INFO] - Username : Komal1447
+2026-06-27 14:33:10 [INFO] - Password : Qm4%PfBTxw
+2026-06-27 14:33:10 [INFO] - Account created successfully.
+2026-06-27 14:33:10 [INFO] - ===== REGISTER USER ACTIONS COMPLETED =====
+2026-06-27 14:33:10 [INFO] - Welcome heading validated successfully.
+2026-06-27 14:33:13 [INFO] - Browser closed
+2026-06-27 14:33:13 [INFO] - Saving 104 frames...
+2026-06-27 14:33:18 [INFO] - Frames saved at: C:\Users\VSR22\git\Selenium_Java\ParaBank/recordings/ParaBank_Login_Test_2026-06-27_14-33-13/
+2026-06-27 14:33:18 [INFO] - ===== TEST COMPLETED =====
+2026-06-29 20:17:44 [INFO] - Application Started
+2026-06-29 20:17:44 [INFO] - Starting screen recording: ParaBank_Login_Test
+2026-06-29 20:17:44 [INFO] - Recording thread started
+2026-06-29 20:17:47 [INFO] - FirefoxDriver setup done
+2026-06-29 20:17:53 [INFO] - Browser launched and maximized
+2026-06-29 20:17:57 [INFO] - Navigated to: https://parabank.parasoft.com
+2026-06-29 20:18:00 [INFO] - ===== REGISTER USER ACTIONS STARTED =====
+2026-06-29 20:18:02 [INFO] - Logo is displayed.
+2026-06-29 20:18:02 [INFO] - Logo title is correct.
+2026-06-29 20:18:02 [INFO] - Logo tooltip is correct.
+2026-06-29 20:18:02 [INFO] - Logo alt text is correct.
+2026-06-29 20:18:02 [INFO] - Logo source is correct.
+2026-06-29 20:18:05 [INFO] - Register page opened successfully.
+2026-06-29 20:18:05 [INFO] - First Name is displayed.
+2026-06-29 20:18:05 [INFO] - Last Name is displayed.
+2026-06-29 20:18:05 [INFO] - Address is displayed.
+2026-06-29 20:18:05 [INFO] - City is displayed.
+2026-06-29 20:18:05 [INFO] - State is displayed.
+2026-06-29 20:18:05 [INFO] - Zip Code is displayed.
+2026-06-29 20:18:05 [INFO] - Phone is displayed.
+2026-06-29 20:18:05 [INFO] - SSN is displayed.
+2026-06-29 20:18:05 [INFO] - Username is displayed.
+2026-06-29 20:18:05 [INFO] - Password is displayed.
+2026-06-29 20:18:05 [INFO] - Confirm Password is displayed.
+2026-06-29 20:18:05 [INFO] - Register Button is displayed.
+2026-06-29 20:18:05 [INFO] - Total Elements Displayed : 12
+2026-06-29 20:18:05 [INFO] - All labels and Register button are displayed.
+2026-06-29 20:18:05 [INFO] - Random registration data generated.
+2026-06-29 20:18:05 [INFO] - Registration form filled successfully.
+2026-06-29 20:18:08 [INFO] - Register button clicked.
+2026-06-29 20:18:18 [INFO] - Registration Successful
+2026-06-29 20:18:18 [INFO] - Username : Komal8198
+2026-06-29 20:18:18 [INFO] - Password : Ve2#cEcyb5
+2026-06-29 20:18:18 [INFO] - Account created successfully.
+2026-06-29 20:18:18 [INFO] - ===== REGISTER USER ACTIONS COMPLETED =====
+2026-06-29 20:18:18 [INFO] - Welcome heading validated successfully.
+2026-06-29 20:18:21 [INFO] - Browser closed
+2026-06-29 20:18:21 [INFO] - Saving 132 frames...
+2026-06-29 20:18:42 [INFO] - Frames saved at: C:\Users\VSR22\git\Selenium_Java\ParaBank/recordings/ParaBank_Login_Test_2026-06-29_20-18-21/
+2026-06-29 20:18:42 [INFO] - ===== TEST COMPLETED =====
+2026-07-15 16:54:01 [INFO] - Application Started
+2026-07-15 16:54:01 [INFO] - Starting screen recording: ParaBank_Login_Test
+2026-07-15 16:54:01 [INFO] - Recording thread started
+2026-07-15 16:54:04 [INFO] - FirefoxDriver setup done
+2026-07-15 16:54:11 [INFO] - Browser launched and maximized
+2026-07-15 16:54:13 [INFO] - Navigated to: https://parabank.parasoft.com
+2026-07-15 16:54:16 [INFO] - ===== REGISTER USER ACTIONS STARTED =====
+2026-07-15 16:54:19 [INFO] - Logo is displayed.
+2026-07-15 16:54:19 [INFO] - Logo title is correct.
+2026-07-15 16:54:19 [INFO] - Logo tooltip is correct.
+2026-07-15 16:54:19 [INFO] - Logo alt text is correct.
+2026-07-15 16:54:19 [INFO] - Logo source is correct.
+2026-07-15 16:54:21 [INFO] - Register page opened successfully.
+2026-07-15 16:54:21 [INFO] - First Name is displayed.
+2026-07-15 16:54:21 [INFO] - Last Name is displayed.
+2026-07-15 16:54:21 [INFO] - Address is displayed.
+2026-07-15 16:54:21 [INFO] - City is displayed.
+2026-07-15 16:54:21 [INFO] - State is displayed.
+2026-07-15 16:54:21 [INFO] - Zip Code is displayed.
+2026-07-15 16:54:21 [INFO] - Phone is displayed.
+2026-07-15 16:54:21 [INFO] - SSN is displayed.
+2026-07-15 16:54:21 [INFO] - Username is displayed.
+2026-07-15 16:54:21 [INFO] - Password is displayed.
+2026-07-15 16:54:21 [INFO] - Confirm Password is displayed.
+2026-07-15 16:54:21 [INFO] - Register Button is displayed.
+2026-07-15 16:54:21 [INFO] - Total Elements Displayed : 12
+2026-07-15 16:54:21 [INFO] - All labels and Register button are displayed.
+2026-07-15 16:54:21 [INFO] - Random registration data generated.
+2026-07-15 16:54:22 [INFO] - Registration form filled successfully.
+2026-07-15 16:54:23 [INFO] - Register button clicked.
+2026-07-15 16:54:33 [INFO] - Registration Successful
+2026-07-15 16:54:33 [INFO] - Username : Komal10981
+2026-07-15 16:54:33 [INFO] - Password : Jt8#KyawhJ
+2026-07-15 16:54:33 [INFO] - Account created successfully.
+2026-07-15 16:54:33 [INFO] - ===== REGISTER USER ACTIONS COMPLETED =====
+2026-07-15 16:54:33 [INFO] - Welcome heading validated successfully.
+2026-07-15 16:54:33 [INFO] - Login Test Started
+2026-07-15 16:54:33 [INFO] - --- Validating Customer Login Section ---
+2026-07-15 16:54:43 [INFO] - Saving 155 frames...
+2026-07-15 16:54:57 [INFO] - Frames saved at: C:\Users\VSR22\git\Selenium_Java\ParaBank/recordings/ParaBank_Login_Test_2026-07-15_16-54-43/
+2026-11-20 12:23:13 [INFO] - Application Started
+2026-11-20 12:23:13 [INFO] - Starting screen recording: ParaBank_Login_Test
+2026-11-20 12:23:13 [INFO] - Recording thread started
+2026-11-20 12:23:19 [INFO] - FirefoxDriver setup done
+2026-11-20 12:23:30 [INFO] - Browser launched and maximized
+2026-11-20 12:23:32 [INFO] - Navigated to: https://parabank.parasoft.com
+2026-11-20 12:23:35 [INFO] - ===== REGISTER USER ACTIONS STARTED =====
+2026-11-20 12:23:37 [INFO] - Logo is displayed.
+2026-11-20 12:23:37 [INFO] - Logo title is correct.
+2026-11-20 12:23:37 [INFO] - Logo tooltip is correct.
+2026-11-20 12:23:37 [INFO] - Logo alt text is correct.
+2026-11-20 12:23:37 [INFO] - Logo source is correct.
+2026-11-20 12:23:40 [INFO] - Register page opened successfully.
+2026-11-20 12:23:40 [INFO] - First Name is displayed.
+2026-11-20 12:23:40 [INFO] - Last Name is displayed.
+2026-11-20 12:23:40 [INFO] - Address is displayed.
+2026-11-20 12:23:40 [INFO] - City is displayed.
+2026-11-20 12:23:40 [INFO] - State is displayed.
+2026-11-20 12:23:40 [INFO] - Zip Code is displayed.
+2026-11-20 12:23:40 [INFO] - Phone is displayed.
+2026-11-20 12:23:40 [INFO] - SSN is displayed.
+2026-11-20 12:23:40 [INFO] - Username is displayed.
+2026-11-20 12:23:40 [INFO] - Password is displayed.
+2026-11-20 12:23:40 [INFO] - Confirm Password is displayed.
+2026-11-20 12:23:40 [INFO] - Register Button is displayed.
+2026-11-20 12:23:40 [INFO] - Total Elements Displayed : 12
+2026-11-20 12:23:40 [INFO] - All labels and Register button are displayed.
+2026-11-20 12:23:40 [INFO] - Random registration data generated.
+2026-11-20 12:23:40 [INFO] - Registration form filled successfully.
+2026-11-20 12:23:42 [INFO] - Register button clicked.
+2026-11-20 12:23:52 [INFO] - Registration Successful
+2026-11-20 12:23:52 [INFO] - Username : Komal4483
+2026-11-20 12:23:52 [INFO] - Password : Rk1#Ticl$X
+2026-11-20 12:23:52 [INFO] - Account created successfully.
+2026-11-20 12:23:52 [INFO] - ===== REGISTER USER ACTIONS COMPLETED =====
+2026-11-20 12:23:52 [INFO] - Welcome heading validated successfully.
+2026-11-20 12:23:52 [INFO] - Login Test Started
+2026-11-20 12:23:52 [INFO] - --- Validating Customer Login Section ---
+2026-11-20 12:24:03 [INFO] - Saving 185 frames...
+2026-11-20 12:24:33 [INFO] - Frames saved at: C:\Users\VSR22\git\Selenium_Java\ParaBank/recordings/ParaBank_Login_Test_2026-11-20_12-24-03/
+2026-11-20 12:34:42 [INFO] - Application Started
+2026-11-20 12:34:42 [INFO] - Starting screen recording: ParaBank_Login_Test
+2026-11-20 12:34:42 [INFO] - Recording thread started
+2026-11-20 12:34:45 [INFO] - FirefoxDriver setup done
+2026-11-20 12:34:51 [INFO] - Browser launched and maximized
+2026-11-20 12:34:53 [INFO] - Navigated to: https://parabank.parasoft.com
+2026-11-20 12:34:56 [INFO] - ===== REGISTER USER ACTIONS STARTED =====
+2026-11-20 12:34:59 [INFO] - Logo is displayed.
+2026-11-20 12:34:59 [INFO] - Logo title is correct.
+2026-11-20 12:34:59 [INFO] - Logo tooltip is correct.
+2026-11-20 12:34:59 [INFO] - Logo alt text is correct.
+2026-11-20 12:34:59 [INFO] - Logo source is correct.
+2026-11-20 12:35:01 [INFO] - Register page opened successfully.
+2026-11-20 12:35:01 [INFO] - First Name is displayed.
+2026-11-20 12:35:01 [INFO] - Last Name is displayed.
+2026-11-20 12:35:01 [INFO] - Address is displayed.
+2026-11-20 12:35:01 [INFO] - City is displayed.
+2026-11-20 12:35:01 [INFO] - State is displayed.
+2026-11-20 12:35:01 [INFO] - Zip Code is displayed.
+2026-11-20 12:35:01 [INFO] - Phone is displayed.
+2026-11-20 12:35:01 [INFO] - SSN is displayed.
+2026-11-20 12:35:01 [INFO] - Username is displayed.
+2026-11-20 12:35:01 [INFO] - Password is displayed.
+2026-11-20 12:35:01 [INFO] - Confirm Password is displayed.
+2026-11-20 12:35:02 [INFO] - Register Button is displayed.
+2026-11-20 12:35:02 [INFO] - Total Elements Displayed : 12
+2026-11-20 12:35:02 [INFO] - All labels and Register button are displayed.
+2026-11-20 12:35:02 [INFO] - Random registration data generated.
+2026-11-20 12:35:02 [INFO] - Registration form filled successfully.
+2026-11-20 12:35:04 [INFO] - Register button clicked.
+2026-11-20 12:35:14 [INFO] - Registration Successful
+2026-11-20 12:35:14 [INFO] - Username : Komal1122
+2026-11-20 12:35:14 [INFO] - Password : Xi2@yNORCf
+2026-11-20 12:35:14 [INFO] - Account created successfully.
+2026-11-20 12:35:14 [INFO] - ===== REGISTER USER ACTIONS COMPLETED =====
+2026-11-20 12:35:14 [INFO] - Welcome heading validated successfully.
+2026-11-20 12:35:14 [INFO] - Login Test Started
+2026-11-20 12:35:14 [INFO] - --- Validating Customer Login Section ---
+2026-11-20 12:35:35 [INFO] - Saving 188 frames...
+2026-11-20 12:35:57 [INFO] - Frames saved at: C:\Users\VSR22\git\Selenium_Java\ParaBank/recordings/ParaBank_Login_Test_2026-11-20_12-35-35/
+2026-11-20 12:38:58 [INFO] - Application Started
+2026-11-20 12:38:58 [INFO] - Starting screen recording: ParaBank_Login_Test
+2026-11-20 12:38:58 [INFO] - Recording thread started
+2026-11-20 12:39:01 [INFO] - FirefoxDriver setup done
+2026-11-20 12:39:08 [INFO] - Browser launched and maximized
+2026-11-20 12:39:10 [INFO] - Navigated to: https://parabank.parasoft.com
+2026-11-20 12:39:13 [INFO] - ===== REGISTER USER ACTIONS STARTED =====
+2026-11-20 12:39:15 [INFO] - Logo is displayed.
+2026-11-20 12:39:15 [INFO] - Logo title is correct.
+2026-11-20 12:39:15 [INFO] - Logo tooltip is correct.
+2026-11-20 12:39:15 [INFO] - Logo alt text is correct.
+2026-11-20 12:39:15 [INFO] - Logo source is correct.
+2026-11-20 12:39:18 [INFO] - Register page opened successfully.
+2026-11-20 12:39:18 [INFO] - First Name is displayed.
+2026-11-20 12:39:18 [INFO] - Last Name is displayed.
+2026-11-20 12:39:18 [INFO] - Address is displayed.
+2026-11-20 12:39:18 [INFO] - City is displayed.
+2026-11-20 12:39:18 [INFO] - State is displayed.
+2026-11-20 12:39:18 [INFO] - Zip Code is displayed.
+2026-11-20 12:39:18 [INFO] - Phone is displayed.
+2026-11-20 12:39:18 [INFO] - SSN is displayed.
+2026-11-20 12:39:18 [INFO] - Username is displayed.
+2026-11-20 12:39:18 [INFO] - Password is displayed.
+2026-11-20 12:39:18 [INFO] - Confirm Password is displayed.
+2026-11-20 12:39:18 [INFO] - Register Button is displayed.
+2026-11-20 12:39:18 [INFO] - Total Elements Displayed : 12
+2026-11-20 12:39:18 [INFO] - All labels and Register button are displayed.
+2026-11-20 12:39:18 [INFO] - Random registration data generated.
+2026-11-20 12:39:18 [INFO] - Registration form filled successfully.
+2026-11-20 12:39:20 [INFO] - Register button clicked.
+2026-11-20 12:39:30 [INFO] - Registration Successful
+2026-11-20 12:39:30 [INFO] - Username : Komal10895
+2026-11-20 12:39:30 [INFO] - Password : Jn8@ADBsUV
+2026-11-20 12:39:30 [INFO] - Account created successfully.
+2026-11-20 12:39:30 [INFO] - ===== REGISTER USER ACTIONS COMPLETED =====
+2026-11-20 12:39:30 [INFO] - Welcome heading validated successfully.
+2026-11-20 12:39:30 [INFO] - --- Performing Logout ---
+2026-11-20 12:39:30 [INFO] - Log Out link is displayed.
+2026-11-20 12:39:31 [INFO] - Clicked Log Out link
+2026-11-20 12:39:31 [INFO] - Logout successful - login panel is displayed again.
+2026-11-20 12:39:31 [INFO] - Login Test Started
+2026-11-20 12:39:31 [INFO] - --- Validating Customer Login Section ---
+2026-11-20 12:39:31 [INFO] - Customer Login heading is displayed.
+2026-11-20 12:39:31 [INFO] - Login panel is displayed.
+2026-11-20 12:39:31 [INFO] - Username label is displayed.
+2026-11-20 12:39:31 [INFO] - Username input field is displayed.
+2026-11-20 12:39:31 [INFO] - Password label is displayed.
+2026-11-20 12:39:31 [INFO] - Password input field is displayed.
+2026-11-20 12:39:31 [INFO] - Login button is displayed.
+2026-11-20 12:39:31 [INFO] - Customer Login section validated successfully.
+2026-11-20 12:39:31 [INFO] - --- Performing Login ---
+2026-11-20 12:39:31 [INFO] - Entered username: Komal10895
+2026-11-20 12:39:31 [INFO] - Entered password
+2026-11-20 12:39:32 [INFO] - Clicked Log In button
+2026-11-20 12:39:32 [INFO] - --- Performing Logout ---
+2026-11-20 12:39:32 [INFO] - Log Out link is displayed.
+2026-11-20 12:39:33 [INFO] - Clicked Log Out link
+2026-11-20 12:39:33 [INFO] - Logout successful - login panel is displayed again.
+2026-11-20 12:39:36 [INFO] - Browser closed
+2026-11-20 12:39:36 [INFO] - Saving 141 frames...
+2026-11-20 12:39:44 [INFO] - Frames saved at: C:\Users\VSR22\git\Selenium_Java\ParaBank/recordings/ParaBank_Login_Test_2026-11-20_12-39-36/
+2026-11-20 12:39:44 [INFO] - ===== TEST COMPLETED =====
+2026-11-20 13:26:53 [INFO] - ===== TEST SETUP STARTED =====
+2026-11-20 13:26:53 [INFO] - Starting screen recording: ParaBank_Test
+2026-11-20 13:26:53 [INFO] - Recording thread started
+2026-11-20 13:26:57 [INFO] - Saving 14 frames...
+2026-11-20 13:26:58 [INFO] - Frames saved at: C:\Users\VSR22\git\Selenium_Java\ParaBank/recordings/ParaBank_Test_2026-11-20_13-26-57/
+2026-11-20 13:26:58 [INFO] - ===== TEST COMPLETED =====
+2026-11-20 13:30:04 [INFO] - ===== TEST SETUP STARTED =====
+2026-11-20 13:30:04 [INFO] - Starting screen recording: ParaBank_Test
+2026-11-20 13:30:04 [INFO] - Recording thread started
+2026-11-20 13:30:07 [INFO] - FirefoxDriver setup done
+2026-11-20 13:30:15 [INFO] - Browser launched and maximized
+2026-11-20 13:30:17 [INFO] - Navigated to: https://parabank.parasoft.com
+2026-11-20 13:30:19 [INFO] - Opened Registration page
+2026-11-20 13:30:20 [INFO] - Filled registration form for user: Komal10194
+2026-11-20 13:30:21 [INFO] - Clicked Register button
+2026-11-20 13:30:23 [INFO] - Browser closed
+2026-11-20 13:30:23 [INFO] - Saving 67 frames...
+2026-11-20 13:30:29 [INFO] - Frames saved at: C:\Users\VSR22\git\Selenium_Java\ParaBank/recordings/ParaBank_Test_2026-11-20_13-30-23/
+2026-11-20 13:30:29 [INFO] - ===== TEST COMPLETED =====
+2026-11-20 18:22:42 [INFO] - ===== TEST SETUP STARTED =====
+2026-11-20 18:22:42 [INFO] - Starting screen recording: ParaBank_E2E_Test
+2026-11-20 18:22:42 [INFO] - Recording thread started
+2026-11-20 18:22:59 [INFO] - Navigated to: https://parabank.parasoft.com
+2026-11-20 18:23:00 [INFO] - Opened Registration page
+2026-11-20 18:23:01 [INFO] - Filled registration form for user: Komal1606
+2026-11-20 18:23:02 [INFO] - Clicked Register button
+2026-11-20 18:23:03 [INFO] - Clicked Log Out link
+2026-11-20 18:23:03 [INFO] - Logout successful - login panel is displayed again
+2026-11-20 18:23:03 [INFO] - Entered username: Komal1606
+2026-11-20 18:23:03 [INFO] - Entered password
+2026-11-20 18:23:05 [INFO] - Clicked Log In button
+2026-11-20 18:23:05 [INFO] - Clicked Log Out link
+2026-11-20 18:23:05 [INFO] - Logout successful - login panel is displayed again
+2026-11-20 18:23:06 [INFO] - Browser closed
+2026-11-20 18:23:06 [INFO] - Saving 86 frames...
+2026-11-20 18:23:17 [INFO] - Frames saved at: C:\Users\VSR22\git\Selenium_Java\ParaBank/recordings/ParaBank_E2E_Test_2026-11-20_18-23-06/
+2026-11-20 18:23:17 [INFO] - ===== TEST COMPLETED =====
+2026-11-20 18:46:17 [INFO] - ===== TEST SETUP STARTED =====
+2026-11-20 18:46:17 [INFO] - Starting screen recording: ParaBank_E2E_Test
+2026-11-20 18:46:17 [INFO] - Recording thread started
+2026-11-20 18:46:32 [INFO] - Navigated to: https://parabank.parasoft.com
+2026-11-20 18:46:33 [INFO] - Opened Registration page
+2026-11-20 18:46:33 [INFO] - Filled registration form for user: Komal5075
+2026-11-20 18:46:34 [INFO] - Clicked Register button
+2026-11-20 18:46:35 [INFO] - Clicked Log Out link
+2026-11-20 18:46:35 [INFO] - Logout successful - login panel is displayed again
+2026-11-20 18:46:35 [INFO] - Entered username: Komal5075
+2026-11-20 18:46:35 [INFO] - Entered password
+2026-11-20 18:46:36 [INFO] - Clicked Log In button
+2026-11-20 18:46:38 [INFO] - Clicked Log Out link
+2026-11-20 18:46:38 [INFO] - Logout successful - login panel is displayed again
+2026-11-20 18:46:39 [INFO] - Browser closed
+2026-11-20 18:46:39 [INFO] - Saving 78 frames...
+2026-11-20 18:46:44 [INFO] - Frames saved at: C:\Users\VSR22\git\Selenium_Java\ParaBank/recordings/ParaBank_E2E_Test_2026-11-20_18-46-39/
+2026-11-20 18:46:44 [INFO] - ===== TEST COMPLETED =====

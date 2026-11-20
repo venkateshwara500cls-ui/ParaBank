@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-11-20T18:46:17 IST" name="ParaBank Automation Suite" finished-at="2026-11-20T18:46:44 IST" duration-ms="26777">
+    <groups>
+    </groups>
+    <test started-at="2026-11-20T18:46:17 IST" name="Banking E2E Tests" finished-at="2026-11-20T18:46:44 IST" duration-ms="26777">
+      <class name="com.parabank.tests.ParaBankEndToEndTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.parabank.tests.ParaBankEndToEndTest@8ff70cd8]" started-at="2026-11-20T18:46:17 IST" name="setUp" finished-at="2026-11-20T18:46:32 IST" duration-ms="14647" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="step1_registerUser()[pri:1, instance:com.parabank.tests.ParaBankEndToEndTest@8ff70cd8]" started-at="2026-11-20T18:46:32 IST" name="step1_registerUser" description="Step 1: Register a new user" finished-at="2026-11-20T18:46:34 IST" duration-ms="2212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- step1_registerUser -->
+        <test-method signature="step2_logoutUser()[pri:2, instance:com.parabank.tests.ParaBankEndToEndTest@8ff70cd8]" started-at="2026-11-20T18:46:34 IST" name="step2_logoutUser" description="Step 2: Logout newly registered user" finished-at="2026-11-20T18:46:35 IST" depends-on-methods="com.parabank.tests.ParaBankEndToEndTest.step1_registerUser" duration-ms="860" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- step2_logoutUser -->
+        <test-method signature="step3_loginWithRegisteredUser()[pri:3, instance:com.parabank.tests.ParaBankEndToEndTest@8ff70cd8]" started-at="2026-11-20T18:46:35 IST" name="step3_loginWithRegisteredUser" description="Step 3: Login using registered credentials" finished-at="2026-11-20T18:46:38 IST" depends-on-methods="com.parabank.tests.ParaBankEndToEndTest.step2_logoutUser" duration-ms="2820" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- step3_loginWithRegisteredUser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.parabank.tests.ParaBankEndToEndTest@8ff70cd8]" started-at="2026-11-20T18:46:38 IST" name="tearDown" finished-at="2026-11-20T18:46:44 IST" duration-ms="6152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.parabank.tests.ParaBankEndToEndTest -->
+    </test> <!-- Banking E2E Tests -->
+  </suite> <!-- ParaBank Automation Suite -->
+</testng-results>
