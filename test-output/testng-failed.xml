@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
-  <test thread-count="5" name="Default test(failed)">
+<suite name="Failed suite [ParaBank Automation Suite]">
+  <test thread-count="5" name="Banking E2E Tests(failed)">
     <classes>
-      <class name="com.parabank.tests.RegistrationTest">
+      <class name="com.parabank.tests.ParaBankEndToEndTest">
         <methods>
-          <include name="testUserRegistration"/>
+          <include name="step1_registerUser"/>
+          <include name="step4_openSavingsAccount"/>
           <include name="setUp"/>
           <include name="tearDown"/>
+          <include name="step3_loginWithRegisteredUser"/>
+          <include name="step2_logoutUser"/>
         </methods>
-      </class> <!-- com.parabank.tests.RegistrationTest -->
+      </class> <!-- com.parabank.tests.ParaBankEndToEndTest -->
     </classes>
-  </test> <!-- Default test(failed) -->
-</suite> <!-- Failed suite [Default suite] -->
+  </test> <!-- Banking E2E Tests(failed) -->
+</suite> <!-- Failed suite [ParaBank Automation Suite] -->

@@ -688,3 +688,82 @@
 2026-11-20 18:46:39 [INFO] - Saving 78 frames...
 2026-11-20 18:46:44 [INFO] - Frames saved at: C:\Users\VSR22\git\Selenium_Java\ParaBank/recordings/ParaBank_E2E_Test_2026-11-20_18-46-39/
 2026-11-20 18:46:44 [INFO] - ===== TEST COMPLETED =====
+2026-11-21 12:36:42 [INFO] - ===== TEST SETUP STARTED =====
+2026-11-21 12:36:42 [INFO] - Starting screen recording: ParaBank_E2E_Test
+2026-11-21 12:36:42 [INFO] - Recording thread started
+2026-11-21 12:37:49 [INFO] - Navigated to: https://parabank.parasoft.com
+2026-11-21 12:37:50 [INFO] - Opened Registration page
+2026-11-21 12:37:51 [INFO] - Filled registration form for user: Komal2702
+2026-11-21 12:37:52 [INFO] - Clicked Register button
+2026-11-21 12:37:53 [INFO] - Clicked Log Out link
+2026-11-21 12:37:53 [INFO] - Logout successful - login panel is displayed again
+2026-11-21 12:37:54 [INFO] - Entered username: Komal2702
+2026-11-21 12:37:54 [INFO] - Entered password
+2026-11-21 12:37:55 [INFO] - Clicked Log In button
+2026-11-21 12:37:56 [INFO] - Clicked Log Out link
+2026-11-21 12:37:56 [INFO] - Logout successful - login panel is displayed again
+2026-11-21 12:37:58 [INFO] - Browser closed
+2026-11-21 12:37:58 [INFO] - Saving 282 frames...
+2026-11-21 12:38:34 [INFO] - Frames saved at: C:\Users\VSR22\git\Selenium_Java\ParaBank/recordings/ParaBank_E2E_Test_2026-11-21_12-37-58/
+2026-11-21 12:38:34 [INFO] - ===== TEST COMPLETED =====
+2026-11-21 13:04:46 [INFO] - ===== TEST SETUP STARTED =====
+2026-11-21 13:04:46 [INFO] - Starting screen recording: ParaBank_E2E_Test
+2026-11-21 13:04:46 [INFO] - Recording thread started
+2026-11-21 13:05:41 [INFO] - Navigated to: https://parabank.parasoft.com
+2026-11-21 13:05:42 [INFO] - Opened Registration page
+2026-11-21 13:05:43 [INFO] - Filled registration form for user: Komal4714
+2026-11-21 13:05:44 [INFO] - Clicked Register button
+2026-11-21 13:05:45 [INFO] - Clicked Log Out link
+2026-11-21 13:05:45 [INFO] - Logout successful - login panel is displayed again
+2026-11-21 13:05:45 [INFO] - Entered username: Komal4714
+2026-11-21 13:05:45 [INFO] - Entered password
+2026-11-21 13:05:46 [INFO] - Clicked Log In button
+2026-11-21 13:05:47 [INFO] - Clicked on 'Open New Account' link
+2026-11-21 13:05:47 [INFO] - Selected account type: SAVINGS
+2026-11-21 13:05:48 [INFO] - Browser closed
+2026-11-21 13:05:48 [INFO] - Saving 231 frames...
+2026-11-21 13:06:05 [INFO] - Frames saved at: C:\Users\VSR22\git\Selenium_Java\ParaBank/recordings/ParaBank_E2E_Test_2026-11-21_13-05-48/
+2026-11-21 13:06:05 [INFO] - ===== TEST COMPLETED =====
+2026-11-21 13:09:53 [INFO] - ===== TEST SETUP STARTED =====
+2026-11-21 13:09:53 [INFO] - Starting screen recording: ParaBank_E2E_Test
+2026-11-21 13:09:53 [INFO] - Recording thread started
+2026-11-21 13:10:47 [INFO] - Navigated to: https://parabank.parasoft.com
+2026-11-21 13:10:48 [INFO] - Opened Registration page
+2026-11-21 13:10:49 [INFO] - Filled registration form for user: Komal3629
+2026-11-21 13:10:49 [INFO] - Clicked Register button
+2026-11-21 13:10:50 [INFO] - Clicked Log Out link
+2026-11-21 13:10:50 [INFO] - Logout successful - login panel is displayed again
+2026-11-21 13:10:50 [INFO] - Entered username: Komal3629
+2026-11-21 13:10:51 [INFO] - Entered password
+2026-11-21 13:10:51 [INFO] - Clicked Log In button
+2026-11-21 13:10:52 [INFO] - Clicked on 'Open New Account' link
+2026-11-21 13:10:52 [INFO] - Selected account type: SAVINGS
+2026-11-21 13:10:53 [INFO] - Selected the first account from 'From Account' dropdown
+2026-11-21 13:11:09 [INFO] - Browser closed
+2026-11-21 13:11:09 [INFO] - Saving 286 frames...
+2026-11-21 13:11:33 [INFO] - Frames saved at: C:\Users\VSR22\git\Selenium_Java\ParaBank/recordings/ParaBank_E2E_Test_2026-11-21_13-11-09/
+2026-11-21 13:11:33 [INFO] - ===== TEST COMPLETED =====
+2026-11-21 13:20:08 [INFO] - ===== TEST SETUP STARTED =====
+2026-11-21 13:20:08 [INFO] - Starting screen recording: ParaBank_E2E_Test
+2026-11-21 13:20:08 [INFO] - Recording thread started
+2026-11-21 13:21:06 [INFO] - Navigated to: https://parabank.parasoft.com
+2026-11-21 13:21:07 [INFO] - Opened Registration page
+2026-11-21 13:21:08 [INFO] - Filled registration form for user: Komal1323
+2026-11-21 13:21:08 [INFO] - Clicked Register button
+2026-11-21 13:21:09 [INFO] - Clicked Log Out link
+2026-11-21 13:21:09 [INFO] - Logout successful - login panel is displayed again
+2026-11-21 13:21:10 [INFO] - Entered username: Komal1323
+2026-11-21 13:21:10 [INFO] - Entered password
+2026-11-21 13:21:11 [INFO] - Clicked Log In button
+2026-11-21 13:21:12 [INFO] - Navigated to Open New Account page
+2026-11-21 13:21:12 [INFO] - Selected account type: SAVINGS
+2026-11-21 13:21:12 [INFO] - Selected the first account from 'From Account' dropdown
+2026-11-21 13:21:13 [INFO] - Clicked Open New Account button
+2026-11-21 13:21:13 [INFO] - New Savings Account ID created: 13677
+2026-11-21 13:21:13 [INFO] - Verified new Savings Account Number: 13677
+2026-11-21 13:21:14 [INFO] - Clicked Log Out link
+2026-11-21 13:21:14 [INFO] - Logout successful - login panel is displayed again
+2026-11-21 13:21:15 [INFO] - Browser closed
+2026-11-21 13:21:15 [INFO] - Saving 253 frames...
+2026-11-21 13:21:33 [INFO] - Frames saved at: C:\Users\VSR22\git\Selenium_Java\ParaBank/recordings/ParaBank_E2E_Test_2026-11-21_13-21-15/
+2026-11-21 13:21:33 [INFO] - ===== TEST COMPLETED =====

@@ -3,6 +3,7 @@ package com.parabank.tests;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import com.parabank.pages.LoginPages;
+import com.parabank.pages.OpenAccountPage;
 import com.parabank.pages.RegisterPage;
 import com.parabank.utils.RegistrationData;
 
@@ -74,6 +75,27 @@ public class ParaBankEndToEndTest extends BaseTest {
         // Verify Login Succeeded
         Assert.assertTrue(loginPage.isAccountsOverviewDisplayed(), "Accounts Overview page did not load");
         Assert.assertTrue(loginPage.isLogoutLinkDisplayed(), "Log Out link should be visible after login");
+    }
+    
+    @Test(priority = 4, dependsOnMethods = "step3_loginWithRegisteredUser", description = "Step 4: Open a new Savings account")
+    public void step4_openSavingsAccount() {
+        OpenAccountPage openAccountPage = new OpenAccountPage(driver);
+        LoginPages loginPage = new LoginPages(driver);
+
+        // Navigate, select SAVINGS, select source account, and submit
+        openAccountPage.goToOpenNewAccountPage();
+        openAccountPage.selectAccountType("SAVINGS");
+        openAccountPage.selectFromAccount();
+        openAccountPage.clickOpenNewAccountButton();
+
+        // Validate new account creation
+        Assert.assertTrue(openAccountPage.isAccountOpenedHeadingDisplayed(), "Account Opened! heading was not displayed");
+        Assert.assertEquals(openAccountPage.getConfirmationMessage(), "Congratulations, your account is now open.");
+
+        String newSavingsAccountId = openAccountPage.getNewAccountId();
+        Assert.assertFalse(newSavingsAccountId.isEmpty(), "New Savings Account ID should not be empty");
+        System.out.println("Verified New Savings Account Number: " + newSavingsAccountId);
+        log.info("Verified new Savings Account Number: {}", newSavingsAccountId);
 
         // Final Logout
         loginPage.logout();

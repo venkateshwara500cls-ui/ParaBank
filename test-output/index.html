@@ -92,7 +92,7 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">3 methods,   3 passed</span>
+                    <span class="method-stats">4 methods,   4 passed</span>
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -114,6 +114,11 @@
                       <span>
                         <img src="passed.png" width="3%"/>
                         <a href="#" panel-name="suite-ParaBank_Automation_Suite" title="com.parabank.tests.ParaBankEndToEndTest" class="method navigator-link" hash-for-method="step3_loginWithRegisteredUser">step3_loginWithRegisteredUser</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-ParaBank_Automation_Suite" title="com.parabank.tests.ParaBankEndToEndTest" class="method navigator-link" hash-for-method="step4_openSavingsAccount">step4_openSavingsAccount</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content passed suite-ParaBank_Automation_Suite -->
@@ -159,6 +164,15 @@
                   <span class="method-name">step3_loginWithRegisteredUser</span>
                   <em>
 (Step 3: Login using registered credentials)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="step4_openSavingsAccount">
+                  </a> <!-- step4_openSavingsAccount -->
+                  <span class="method-name">step4_openSavingsAccount</span>
+                  <em>
+(Step 4: Open a new Savings account)                  </em>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -215,24 +229,28 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(3);
+data.addRows(4);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'step3_loginWithRegisteredUser')
+data.setCell(0, 1, 'step4_openSavingsAccount')
 data.setCell(0, 2, 'com.parabank.tests.ParaBankEndToEndTest')
-data.setCell(0, 3, 2820);
+data.setCell(0, 3, 3196);
 data.setCell(1, 0, 1)
 data.setCell(1, 1, 'step1_registerUser')
 data.setCell(1, 2, 'com.parabank.tests.ParaBankEndToEndTest')
-data.setCell(1, 3, 2212);
+data.setCell(1, 3, 2795);
 data.setCell(2, 0, 2)
-data.setCell(2, 1, 'step2_logoutUser')
+data.setCell(2, 1, 'step3_loginWithRegisteredUser')
 data.setCell(2, 2, 'com.parabank.tests.ParaBankEndToEndTest')
-data.setCell(2, 3, 860);
+data.setCell(2, 3, 1268);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'step2_logoutUser')
+data.setCell(3, 2, 'com.parabank.tests.ParaBankEndToEndTest')
+data.setCell(3, 3, 1037);
 window.suiteTableData['ParaBank_Automation_Suite']= { tableData: data, tableDiv: 'times-div-ParaBank_Automation_Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 5 seconds</span>
+              <span class="suite-total-time">Total running time: 8 seconds</span>
               <div id="times-div-ParaBank_Automation_Suite">
               </div> <!-- times-div-ParaBank_Automation_Suite -->
             </div> <!-- times-div -->
@@ -265,19 +283,23 @@ return data;
               </div> <!-- configuration-class before -->
               <div class="test-method">
                 <span class="method-name">step1_registerUser</span>
-                <span class="method-start">14683 ms</span>
+                <span class="method-start">57609 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">step2_logoutUser</span>
-                <span class="method-start">16912 ms</span>
+                <span class="method-start">60416 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">step3_loginWithRegisteredUser</span>
-                <span class="method-start">17774 ms</span>
+                <span class="method-start">61455 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">step4_openSavingsAccount</span>
+                <span class="method-start">62727 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">20601 ms</span>
+                <span class="method-start">65926 ms</span>
               </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
